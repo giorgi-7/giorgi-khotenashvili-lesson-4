@@ -1,0 +1,100 @@
+
+
+.main{
+margin-top: 30px;
+margin-left: 200px;  
+font-size: 42px;
+font-family: "ArchyEDT-Bold", sans-serif;
+ 
+}
+
+.rest{
+ font-color: #5863F8;
+ margin-top: 82px;
+ color: #5863F8;
+ font-family: 'ALK Life';
+}
+
+
+.satauri{
+ font-color: ##000000;
+ font-size:42px;
+ width: 498px;
+ height: 115px;
+}
+
+
+
+.box1{
+  margin-left: 162px;
+}
+
+
+.inline{
+ display: inline-block;
+}
+
+
+.size1{
+width: 536px;
+height: 190;
+}
+
+
+.backgr{
+ background-color: #F8F8F8;
+}
+
+
+.right{
+margin-right: 16px;
+}
+
+.text1{
+ width: 260px;
+ height: 62px;
+ color: #B1B1B1;
+ margin-top: 10px;
+ font-family: 'Nerko One';
+}
+
+.verticalmid{
+  vertical-align: middle;
+}
+
+
+.verticaltop{
+  vertical-align: top;
+}
+
+.blue{
+  color: #5863F8;
+}
+
+.txtdiv{
+  margin-left: 16px;
+}
+
+.box1-2{
+margin-top: 16px;
+
+}
+
+.box2{
+ margin-top: 90px;
+ margin-left: 162px;
+}
+
+.size2{
+  width: 352px;
+  height: 360px;
+}
+
+.margtop{
+  margin-top: 23px;
+}
+
+.text2{
+font-family: 'JetBrains Mono', monospace;
+
+}
